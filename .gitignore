@@ -1,5 +1,4 @@
 foo
 /foo2
-/foo3
-foo4/
-foo3/subfoo/**
+foo4/subfoo/**
+foo3/*.txt
