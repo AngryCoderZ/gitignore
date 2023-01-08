@@ -1,2 +1,4 @@
 foo
 # foo/
+foo3/*.js
+foo3/foo4/**
