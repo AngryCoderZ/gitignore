@@ -1,4 +1,4 @@
-foo
-# /foo
-# foo2/foo4/**
-# foo3/text.js
+# foo
+/foo
+foo2/foo4/**
+foo3/*.js
